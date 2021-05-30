@@ -40,7 +40,7 @@
 
 <h3> You can find me: </h3>
 
-- [Twitter](https://twitter.com/Silvak__)
-- [Behance](https://www.behance.net/Silvak)
+- [![Foo](https://img.shields.io/badge/-twitter-333333?style=flat&logo=twitter&logoColor=563D7)](https://twitter.com/Silvak__)
+- [![Foo](https://img.shields.io/badge/-behance-333333?style=flat&logo=behance&logoColor=563D7)](https://www.behance.net/Silvak)
 
 <br/>
