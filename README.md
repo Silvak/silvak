@@ -4,7 +4,7 @@
  
 - I'm 21 years old, and I live in Venezuela.
 - I study information systems in Instituto Universitario Politécnico Santiago Mariño.
-- I’m currently learning TypeScript and Artificial Intelligence.
+- I’m currently learning TypeScript, React and Artificial Intelligence.
 - Hobbies drawing and robotics.
 
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 
 <a  href="https://github.com/silvak">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvak&theme=buefy&layout=compact" />
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvak&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
 
