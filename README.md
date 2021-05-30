@@ -11,9 +11,12 @@
 
 <h3> Languages & Tools </h3>
 
+<br/>
+
 <a  href="https://github.com/silvak">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvak&theme=buefy&layout=compact" />
 </a>
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
