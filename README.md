@@ -38,6 +38,7 @@
 <br/>
 
 <h3> You can find me: </h3>
+
 - [![Foo](https://img.shields.io/badge/-behance-333333?style=flat&logo=behance&logoColor=563D7)](https://www.behance.net/Silvak)
 
 <br/>
