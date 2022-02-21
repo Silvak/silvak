@@ -13,10 +13,6 @@
 
 <br/>
 
-<a  href="https://github.com/silvak">
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvak&layout=compact&langs_count=8&theme=algolia" />
-</a>
-
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
