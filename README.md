@@ -2,8 +2,7 @@
 
 <br/>
  
-- I'm 21 years old, and I live in Venezuela.
-- I study information systems in Instituto Universitario Politécnico Santiago Mariño.
+- I'm 23 years old, and I live in Venezuela.
 - I’m currently learning TypeScript, React and Artificial Intelligence.
 - Hobbies drawing and robotics.
 
